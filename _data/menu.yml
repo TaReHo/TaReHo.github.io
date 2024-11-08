@@ -1,0 +1,21 @@
+﻿# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: The Homepage of the band TaReHo, founded in 2009
+      - title: repo
+        url: https://github.com/TaReHo/TaReHo.github.io
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+  - title: rss
+    url: feed.xml
+  
+  - title: another list
+    entries:
+        - title: About us
+          url: about
+
